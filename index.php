@@ -314,3 +314,4 @@ switch (ENVIRONMENT)
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 // nambah ini
+// nambah 2
